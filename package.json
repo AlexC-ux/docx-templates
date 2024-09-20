@@ -1,5 +1,5 @@
 {
-  "name": "docx-templates",
+  "name": "docx-templates-nodebuffer",
   "version": "4.13.0",
   "description": "Template-based docx report creation",
   "main": "lib/index.js",
